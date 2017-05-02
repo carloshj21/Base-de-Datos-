@@ -1,0 +1,33 @@
+body
+{
+	background-image:url("../Resources/Images/busqueda.jpg");
+	background-size:cover;
+	text-align:center;
+	padding:6em;
+}
+h1
+{
+	color:white;
+	font-family:Impact;
+	font-size:50px;
+	letter-spacing:2px;
+	padding:2em;
+	text-shadow:6px 6px black;
+}
+form
+{
+	background-color:royalblue;
+	border:5px solid white;
+	color:white;
+	font-size:25px;
+	font-family:Arial;
+	padding:1.5em;
+}
+select
+{
+	font-size:20px;
+}
+input
+{
+	font-size:20px;
+}
